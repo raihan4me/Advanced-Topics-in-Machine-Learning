@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# MLflow & Optuna state (large, environment-specific)
+mlruns/
+mlartifacts/
+mlflow.db
+optuna.db
+mlflow-server.out
+
+# Generated data & artifacts
+data/*.csv
+models/*.joblib
+reports/*.json
+
+# Docker build context helpers
+.dockerignore
+
+# OS
+.DS_Store

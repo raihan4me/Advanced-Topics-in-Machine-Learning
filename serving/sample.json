@@ -1,0 +1,6 @@
+{"transactions": [
+  {"amount": 42.5, "hour": 14, "merchant_category": "grocery", "channel": "pos",
+   "account_age_days": 2100, "txn_count_24h": 2, "distance_from_home_km": 3.2, "avg_amount_30d": 38.0},
+  {"amount": 890.0, "hour": 3, "merchant_category": "electronics", "channel": "web",
+   "account_age_days": 12, "txn_count_24h": 9, "distance_from_home_km": 420.0, "avg_amount_30d": 35.0}
+]}
